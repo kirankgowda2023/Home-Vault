@@ -1,0 +1,6 @@
+{
+  "name": "HomeVault",
+  "description": "Privacy-first, offline-first home asset, bill, and warranty manager. Know what you own, where the bill is, and when the warranty expires.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
